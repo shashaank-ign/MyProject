@@ -21,7 +21,7 @@ int main() {
     printf("Enter a number in decimal: ");
     scanf("%u", &number);
 
-    printf("Binary representation: ");
+    printf("Binary representations: ");
     printBinary(number);
 
     printf("Enter the position (0-31) to perform the operation: ");

@@ -14,7 +14,7 @@ int main() {
 
     char choice;
     do {
-        printf("\nMenu:\n");
+        printf("\nMenu 1 to 3:\n");
         printf("1. Update names\n");
         printf("2. Rearrange names in alphabetical order\n");
         printf("3. Exit\n");
